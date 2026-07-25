@@ -47,7 +47,7 @@ I am currently developing Cyanorphine, a Python-based framework that addresses i
 
 **B.Sc. in Computer Engineering**  
 Islamic Azad University, Mashhad Branch  
-*Expected Graduation: 2025*
+*Expected Graduation: 2029*
 
 ## Contact
 
