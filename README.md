@@ -44,8 +44,7 @@ Cyanorphine is not just an LLM wrapper; it is a Deterministic Orchestration Fram
 - **Approach:** Neuro-Symbolic Orchestration based on State Machine Topology
 - **Status:** Paper in progress, code repository be published 
 - **Focus:** Bridging neural computation with symbolic logic through deterministic state transitions
-- **Repository:** Will be available at [github.com/matinlezgi/cyanorphine]([https://github.com/matinlezgi/Cyanorphine-v1](https://github.com/matinlezgi/Cyanorphine-v1))
-
+- **Repository:** (https://github.com/matinlezgi/Cyanorphine-v1)
 ## Education
 
 **B.Sc. in Computer Engineering**  
