@@ -1,39 +1,53 @@
 # Mohammad Matin Lezgi Borzou
 
-Undergraduate Researcher in Computer Engineering  
-Islamic Azad University, Mashhad Branch
+Computer Engineering Student | Network Configuration Specialist | AI Researcher
 
 ---
 
 ## About
 
-I am a final-year undergraduate student in Computer Engineering with a research focus on the intersection of Artificial Intelligence and Network Infrastructure. My work explores the application of machine learning models to optimize network performance, enhance infrastructure resilience, and address complex challenges in modern IT systems.
+I am a Computer Engineering student at Islamic Azad University, Mashhad Branch, with a focus on network configuration and infrastructure. Currently, I am researching artificial intelligence and developing **Cyanorphine**, a novel framework designed to address fundamental limitations in AI systems.
 
-I am committed to the principles of Open Science and reproducible research. All experimental code, datasets, and analysis pipelines associated with my research are maintained and publicly available through this GitHub profile.
+My work combines practical network engineering skills with AI research, aiming to create solutions that bridge theoretical concepts and real-world infrastructure challenges.
 
-## Research Interests
+## Technical Skills
 
-- Artificial Intelligence and Machine Learning
-- Deep Learning for Network Optimization
-- Infrastructure Engineering and Resilient Systems
-- Applied Data Science in Computer Networks
-- Open Source Scientific Computing
+**Network & Infrastructure:**
+- Network Configuration (Cisco, MikroTik)
+- Linux Administration
+- Windows Server Administration
+- Virtualization (VMware, Hyper-V)
+- Storage Systems (HPE, Dell EMC)
+- Backup Solutions (Veeam, Acronis)
+- Firewall & Security (FortiGate, Sophos, Palo Alto)
+- Monitoring Tools (Zabbix, SolarWinds, PRTG)
+
+**Programming & Automation:**
+- Python (Network Automation, AI/ML)
+- Bash/Shell Scripting
+- PowerShell
+- Infrastructure as Code (Terraform, Ansible)
+- Containerization (Docker, Kubernetes)
+
+**AI & Machine Learning:**
+- Cyanorphine Framework (In Development)
+- Python for AI Applications
+
+## Current Research
+
+**Cyanorphine Framework**
+
+I am currently developing Cyanorphine, a Python-based framework that addresses inherent limitations in artificial intelligence systems. The framework focuses on creating practical, scalable solutions for real-world deployment.
+
+- **Status:** Paper in progress, code repository be published
+- **Focus:** Overcoming fundamental AI limitations through novel architectural approaches
+- **Repository:** Will be available at [github.com/matinlezgi/cyanorphine](https://github.com/matinlezgi/cyanorphine)
 
 ## Education
 
 **B.Sc. in Computer Engineering**  
 Islamic Azad University, Mashhad Branch  
-*Expected Graduation: 2026*
-
-## Technical Skills
-
-**Programming & AI:** Python, PyTorch, TensorFlow, Scikit-Learn, NumPy, Pandas  
-**Network & Infrastructure:** TCP/IP, Routing & Switching, Linux System Administration  
-**Research & Development:** Git, Docker, LaTeX, CI/CD, Reproducible Workflows
-
-## Selected Works
-
-*This section will be updated with links to published research papers, preprints, and associated code repositories.*
+*Expected Graduation: 2025*
 
 ## Contact
 
@@ -42,4 +56,4 @@ Islamic Azad University, Mashhad Branch
 
 ---
 
-*For academic inquiries, collaboration proposals, or questions regarding my research, please contact me via email or ORCID.*
+*For academic inquiries or collaboration proposals, please contact me via email or ORCID.*
