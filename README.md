@@ -6,9 +6,9 @@ Computer Engineering Student | Network Configuration Specialist | AI Researcher
 
 ## About
 
-I am a Computer Engineering student at Islamic Azad University, Mashhad Branch, with a focus on network configuration and infrastructure. Currently, I am researching artificial intelligence and developing **Cyanorphine**, a novel framework designed to address fundamental limitations in AI systems.
+I am a Computer Engineering student at Islamic Azad University, Mashhad Branch, with a focus on network configuration and infrastructure. Currently, I am researching neuro-symbolic artificial intelligence and developing **Cyanorphine**, a novel orchestration framework based on state machine topology.
 
-My work combines practical network engineering skills with AI research, aiming to create solutions that bridge theoretical concepts and real-world infrastructure challenges.
+My work combines practical network engineering skills with AI research, focusing on bridging neural networks with symbolic reasoning through structured state-based architectures.
 
 ## Technical Skills
 
@@ -30,17 +30,20 @@ My work combines practical network engineering skills with AI research, aiming t
 - Containerization (Docker, Kubernetes)
 
 **AI & Machine Learning:**
-- Cyanorphine Framework (In Development)
+- Neuro-Symbolic AI
+- State Machine Architectures
 - Python for AI Applications
 
 ## Current Research
 
-**Cyanorphine Framework**
+**Cyanorphine: A Neuro-Symbolic Orchestration Framework**
 
-I am currently developing Cyanorphine, a Python-based framework that addresses inherent limitations in artificial intelligence systems. The framework focuses on creating practical, scalable solutions for real-world deployment.
+Cyanorphine is a Python-based framework that implements neuro-symbolic AI through state machine topology. The framework addresses fundamental limitations in artificial intelligence by combining neural network capabilities with symbolic reasoning in a structured, state-based architecture.
+Cyanorphine is not just an LLM wrapper; it is a Deterministic Orchestration Framework that enforces hard cognitive constraints via State Machine Topology.
 
-- **Status:** Paper in progress, code repository be published
-- **Focus:** Overcoming fundamental AI limitations through novel architectural approaches
+- **Approach:** Neuro-Symbolic Orchestration based on State Machine Topology
+- **Status:** Paper in progress, code repository will be published soon
+- **Focus:** Bridging neural computation with symbolic logic through deterministic state transitions
 - **Repository:** Will be available at [github.com/matinlezgi/cyanorphine](https://github.com/matinlezgi/cyanorphine)
 
 ## Education
@@ -53,7 +56,6 @@ Islamic Azad University, Mashhad Branch
 
 - **Email:** matin.lezgiborzou@gmail.com
 - **ORCID:** [0009-0007-4726-9719](https://orcid.org/0009-0007-4726-9719)
-
 ---
 
 *For academic inquiries or collaboration proposals, please contact me via email or ORCID.*
