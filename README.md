@@ -39,7 +39,6 @@ Islamic Azad University, Mashhad Branch
 
 - **Email:** matin.lezgiborzou@gmail.com
 - **ORCID:** [0009-0007-4726-9719](https://orcid.org/0009-0007-4726-9719)
-- **LinkedIn:** [Mohammad Matin Lezgi Borzou](https://www.linkedin.com/in/mohammad-matin-lezgi-borzou-668219424)
 
 ---
 
