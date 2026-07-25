@@ -42,7 +42,7 @@ Cyanorphine is a Python-based framework that implements neuro-symbolic AI throug
 Cyanorphine is not just an LLM wrapper; it is a Deterministic Orchestration Framework that enforces hard cognitive constraints via State Machine Topology.
 
 - **Approach:** Neuro-Symbolic Orchestration based on State Machine Topology
-- **Status:** Paper in progress, code repository will be published soon
+- **Status:** Paper in progress, code repository be published 
 - **Focus:** Bridging neural computation with symbolic logic through deterministic state transitions
 - **Repository:** Will be available at [github.com/matinlezgi/cyanorphine](https://github.com/matinlezgi/cyanorphine)
 
